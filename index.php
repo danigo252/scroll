@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Efecto scroll en menú</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
+
+    <script src="js/script.js"></script>
+
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <a href="www.google.com"><li>Inicio</li></a>
+                <a href="www.google.com"><li>Videos</li></a>
+                <a href="www.google.com"><li>Imagenes</li></a>
+            </ul>
+
+            <img src="pictures/logo.png" id="logo">
+
+            <ul>
+                <a href=""><li>Youtube</li></a>
+                <a href=""><li>Nosotros</li></a>
+                <a href=""><li>Contacto</li></a>
+            </ul>
+
+        </nav>
+    </header>
+
+    <section id="banner">
+
+    </section>
+
+    <section id="body">
+
+    </section>
+</body>
+</html>
